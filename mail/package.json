@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemailer": "^6.7.5"
+  },
+  "name": "mail-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashifsadiq/node-mail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashifsadiq/node-mail/issues"
+  },
+  "homepage": "https://github.com/ashifsadiq/node-mail#readme",
+  "description": ""
+}
