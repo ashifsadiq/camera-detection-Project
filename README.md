@@ -60,7 +60,7 @@ or
 ```
 python main.py
 ```
-## Step 4.2 - 2nd terminal window
+## Step 3.2 - 2nd terminal window
 ```
 npm start
 ```
